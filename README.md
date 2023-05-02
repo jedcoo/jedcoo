@@ -8,8 +8,10 @@
 - ⚡ Doing projects in JavaScript;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jedcoo@gmail.com)](mailto:jedcoo@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jedcoo/)](https://www.linkedin.com/in/jedcoo/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351915142884)
 - ⚡ Fun fact about me: I worked as industrial engineer for 5 years in the biggest automotive industries;
-- 😄 You can download my CV [here](https://github.com/Drete457/Drete457/blob/master/CV%20-%20Filipe%20Mota.pdf "here").
+- 😄 You can download my CV [here](https://github.com/jedcoo/jedcoo/blob/main/CV_Log_Joao_Oliveira.pdf "here").
+<!--
 - 😱 You can see my skills [here](https://github.com/Drete457/Drete457/blob/master/technicalSkills.md "here").
+-->
 
 ## Technologies I know and I'm learning
 #### Backend
