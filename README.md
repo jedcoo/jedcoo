@@ -3,7 +3,7 @@
   <h2 align="center">  My name is João Oliveira 🤓</h2> 
 </p>
 
-- 🔭 I’m currently looking for a job as Junior Developer;
+- 🔭 I’m looking for a job as Junior Developer;
 - 🌱 I’m currently studying OUTSYSTEMS 🤪;
 - ⚡ Doing projects in JavaScript;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jedcoo@gmail.com)](mailto:jedcoo@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jedcoo/)](https://www.linkedin.com/in/jedcoo/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351915142884)
