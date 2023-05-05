@@ -14,9 +14,13 @@
 -->
 
 ## Technologies I know and I'm learning
-#### Backend
+#### Backend, Frontend & Databases
 <p align="left">
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
 </p>
 
 #### Frontend
